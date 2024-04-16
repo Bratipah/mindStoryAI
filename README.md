@@ -30,8 +30,19 @@ This project is interpreted/tested on Ubuntu & Windows
 * `server` - server side of the project
 
 ## Live Version
+Desktop Version
 
+![SignUp/LogIn Page](https://github.com/Bratipah/mindStoryAI/blob/main/client/public/images/deployed%20images/Screenshot%202024-04-16%20141028.png)
+![HomePage](https://github.com/Bratipah/mindStoryAI/blob/main/client/public/images/deployed%20images/Screenshot%202024-04-16%20141531.png)
+![About Us & RoadMap Steps](https://github.com/Bratipah/mindStoryAI/blob/main/client/public/images/deployed%20images/Screenshot%202024-04-16%20141550.png)
+![Preview Demo](https://github.com/Bratipah/mindStoryAI/blob/main/client/public/images/deployed%20images/Screenshot%202024-04-16%20141611.png)
+![Footer](https://github.com/Bratipah/mindStoryAI/blob/main/client/public/images/deployed%20images/Screenshot%202024-04-16%20141620.png)
 
+Mobile Version
+
+![Landing Page](https://github.com/Bratipah/mindStoryAI/blob/main/client/public/images/deployed%20images/Screenshot%202024-04-16%20141717.png)
+![RoadMap](https://github.com/Bratipah/mindStoryAI/blob/main/client/public/images/deployed%20images/Screenshot%202024-04-16%20141739.png)
+![Footer](https://github.com/Bratipah/mindStoryAI/blob/main/client/public/images/deployed%20images/Screenshot%202024-04-16%20141749.png)
 
 ## Bugs
 No known bugs at this time. 
