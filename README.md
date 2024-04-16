@@ -1,5 +1,5 @@
 # MINDSTORY AI
-The is creates your own made story for your children's bedtime story with your own culture and vibe with the help of AI. The goal of the project is to eventually deploy our server on live environment with a server side and APi intergrations. Open AI API has been used to create the stories while mongo DB has been used to store each user's story for later on reference.
+This platform creates your own made story for your children's bedtime story with your own culture and vibe with the help of AI. The goal of the project is to eventually deploy our server on live environment with a server side and APi intergrations. Open AI API has been used to create the stories while mongo DB has been used to store each user's story for later on reference.
 
 #### Functionalities:
 * Create a new database and API intergration
