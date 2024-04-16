@@ -40,5 +40,5 @@ No known bugs at this time.
 Bratipah Kioko - [Github](https://github.com/Bratipah) / [Twitter](https://twitter.com/Alienate_B)  
 
 ## License
-Public Domain. No copy write protection. 
+
 
